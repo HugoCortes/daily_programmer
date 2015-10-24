@@ -11,7 +11,7 @@ None.
 
 Output Description  
 Output a string signifying 50 tetromino pieces given to the player using the random bag system. This will be on a single line.  
-The pieces [RES ignored duplicate link][3] are as follows:  
+The pieces [3] are as follows:  
 O  
 I  
 S  
