@@ -33,4 +33,12 @@
       <Filter>Source Files</Filter>
     </ClCompile>
   </ItemGroup>
+  <ItemGroup>
+    <None Include="..\python\input1.in">
+      <Filter>Source Files</Filter>
+    </None>
+    <None Include="output1.out">
+      <Filter>Source Files</Filter>
+    </None>
+  </ItemGroup>
 </Project>
